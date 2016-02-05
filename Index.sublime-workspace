@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"currentImage"
+			],
+			[
+				"prepend",
+				"prependItems"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"check",
+				"checkPastExperience"
+			],
+			[
+				"che",
+				"checkState"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"to",
+				"totalAmount"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"p",
+				"paragraph"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"se",
+				"section	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_07_Arrays_and_Things/13_arrays/starter_code/color_scheme/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_06_Review_Refactor/11_functions_and_forms/starter_code/cash_register/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_05_JS_ComputerScience/10_functions/starter_code/cash_register/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_06_Review_Refactor/11_functions_and_forms/starter_code/application_form/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_05_JS_ComputerScience/10_functions/starter_code/cash_register/js/index.js",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_06_Review_Refactor/11_functions_and_forms/solution/cash_register/js/index.js",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_06_Review_Refactor/11_functions_and_forms/starter_code/cash_register/js/index.js",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_06_Review_Refactor/11_functions_and_forms/solution/cash_register/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_04_Intro_Programming/Assignment/starter_code/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/homework-landingpage/Relaxr Interactive/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/homework-landingpage/css/style.css",
+		"/Users/JulieO/Desktop/Gitbub Docs/homework-landingpage/Relaxr Interactive/relaxrjquery.js",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_04_Intro_Programming/Assignment/jquery_dom_selector_practice/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/homework-landingpage/starter_code/css/stylerelaxr.css",
+		"/Users/JulieO/Desktop/Gitbub Docs/homework-landingpage/starter_code/css/relaxr2.css",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_03_Layout/06_HTML_CSS_Lab/example/css/main.css",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_03_Layout/06_HTML_CSS_Lab/example/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_02_Styling/Assignment/starter_code/Relaxr.css",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_02_Styling/Assignment/starter_code/testimonial.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_02_Styling/Assignment/starter_code/body.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/homework-landingpage/starter_code/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/FEWD-DC-20/Week_01_Basics/02_css_basics/slides.md",
+		"/Users/JulieO/Desktop/Gitbub Docs/Cookie Recipe Practice2.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/index.html",
+		"/Users/JulieO/Desktop/Gitbub Docs/class/ThisJulie.txt",
+		"/Users/JulieO/Desktop/Gitbub Docs/class/Hello.txt",
+		"/Users/JulieO/Documents/untitled.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
