@@ -1,0 +1,58 @@
+header nav {
+  float: right;
+  margin-top: 15px;
+  color:white;
+ 
+}
+
+h2 {
+	color:white;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin: 0 0 0 40px;
+  font-size: 24px;
+ color: white;
+
+}
+
+
+body {
+	background: white;
+}
+
+header {
+	background: #033048;
+	 padding: 25px 0;
+	 overflow: hidden;
+	
+}
+
+div .body{
+	
+}
+
+section {
+	font: white;
+	 padding: 25px 0;
+	background: black;
+}
+
+h3 {
+	color: white;
+	padding: 25px 0;
+}
+
+footer {
+	color:white;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 0 0 0 40px;
+  text-align: center;
+  font-size: 24px;
+ 
+
+}
