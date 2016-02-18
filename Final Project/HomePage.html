@@ -1,3 +1,11 @@
+<!-- 
+	Overall comment: I would encourage you to rename this file to index.html.  That way, when
+	a user goes directly to the URL your site is hosted at, they end up at this page. 
+
+	Also, general note, file and folder names should be lower case.  They work with they have 
+	capital letters just fine - it's just a developer standard practice.
+-->
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,6 +13,15 @@
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,900' rel='stylesheet' type='text/css'>
 
 		<!-- external CSS link -->
+		<!-- 
+			The links to these stylesheets are not working when I go to http://julieoue.github.io/Final%20Project/HomePage.html
+
+			This is happening because you have the folder names as all lower case, but the folder names
+			are actually in all uppercase.
+
+			I would encourage you to rename the folders to be all lower case, but either way, case matters here
+			It will work on your local computer, but servers are case sensitive.
+		-->
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/HomePageStyle.css">
 
@@ -40,11 +57,11 @@
 		<br>M <br>E <br>D <br>I <br>A
 	</section>
 
-	<section> <h3> Juie O. is a filmmaker, journalist, and musician.
-	<div body> 
+	<section> <h3> Juie O. is a filmmaker, journalist, and musician. <!-- This <h3> should be closed before you start your <div> below -->
+	<div body> <!-- body is not an attribute for <div> tags.  Should this be a class? -->
 	Expierence in video production, pre and post.
-	<div>
-	</h3> <section>
+	<div> <!-- This should be a </div> (end div) tag -->
+	</h3> <section> <!-- This should be a </section> (end section) tag -->
 </div>
 
 </body>
@@ -60,8 +77,8 @@
 
 <footer>
 	<ul>
-		<li> Vimeo <a href="" </li>
-		<li>LinkedIn <a href="https://www.linkedin.com/in/julieomedia"</li>
+		<li> Vimeo <a href="" </li> <!-- This <a> tag needs to be closed - it's missing a pointy bracket and a close tag -->
+		<li>LinkedIn <a href="https://www.linkedin.com/in/julieomedia"</li> <!-- This <a> tag needs to be closed - it's missing a pointy bracket and a close tag -->
 		<li>Youtube </li>
 		<li>SoundCloud </li>
 	</ul>
