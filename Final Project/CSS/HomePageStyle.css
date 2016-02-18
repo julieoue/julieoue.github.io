@@ -38,6 +38,10 @@ div .body{
 }
 
 section {
+    /* 
+        If you want your font color to be white here, you should use the "color" attribute instead of "font".
+        "font" is more for the font family (which font you are using - i.e. Arial, Helvetica) and size.
+    */
 	font: white;
 	 padding: 25px 0;
 	background: black;
