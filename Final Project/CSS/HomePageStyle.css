@@ -6,7 +6,10 @@ header nav {
 }
 
 h2 {
-	color:white;
+	color:black;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	font-size: 30px;
 }
 
 header nav ul li {
@@ -14,6 +17,7 @@ header nav ul li {
   margin: 0 0 0 40px;
   font-size: 24px;
  color: white;
+ font-family: 'Raleway', sans-serif;
 
 }
 
@@ -50,13 +54,32 @@ h3 {
 
 footer {
 	color:white;
+	background: #033048;
 }
 
 footer ul li {
   display: inline-block;
-  margin: 0 0 0 40px;
-  text-align: center;
+  margin: 40px 40px 40px 40px;
+ 
   font-size: 24px;
  
 
 }
+
+section.video{
+	width: 50%;
+	margin:0 auto;
+}
+
+section.left {
+	float: left;
+	padding:0px 30px 600px 0px;
+	background: #033048;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	
+	}
+
+
