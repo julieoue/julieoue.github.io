@@ -1,22 +1,110 @@
-header nav {
-  float: right;
-  margin-top: 15px;
-  color:white;
- 
-}
-
-h2 {
-	color:white;
-}
-
 header nav ul li {
   display: inline-block;
   margin: 0 0 0 40px;
   font-size: 24px;
  color: white;
+ font-family: 'Raleway', sans-serif;
 
 }
+
+header nav li {
+  float: left;
+
+  }
+
+nav {
+  width: 100%
+}
+
 
 body {
-	background: black;
+  background: black;
 }
+*/
+
+
+div .body{
+  
+  top: 0;
+
+  
+}*/
+
+section {
+  font: white;
+  background: black;
+
+
+}
+
+h3 {
+  color: white;
+  padding: 25px 0;
+}
+
+footer {
+  color:white;
+  background: #033048;
+  float: right;
+  width: 100%;
+}
+
+footer ul {
+  
+  text-align: center;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 40px 40px 40px 80px;
+  font-size: 24px;
+ 
+}
+
+footer {
+  text-align: center;
+}
+
+
+
+
+section.left {
+  float: left;
+  padding:0px 0px 300px 0px;
+
+  color: white;
+  font-family: 'Amaranth', sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+
+  }
+
+div .photo {
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+  
+#carousel-example-generic {
+  width:400px;
+  margin: 0 auto;
+}
+
+
+
+h4 {
+  position: absolute; 
+  top: 200px; 
+
+}
+
+
+
+
+
