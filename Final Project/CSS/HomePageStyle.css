@@ -1,4 +1,5 @@
 
+
 header nav {
   float: right;
   margin-top: 15px;
@@ -34,30 +35,25 @@ nav {
 
 
 body {
-	background-image: ("...documents/baby jewel maker.jpg");
-	background: black;
+	
+	background-image: url("../Images/shadyblackbackground.jpg");
+	width: 100%;
+	background-size: 100%;
+	
+	
 }
 
 header {
-	background: black;
+	
 	 padding: 25px 0;
 	 overflow: hidden;
 	
 }
 
-div .body{
-	
-	top: 0;
-
-	
-}
-
 section {
+	
 	font: white;
-	background: black;
-
-
-}
+	}
 
 h3 {
 	color: white;
@@ -69,10 +65,10 @@ footer {
 	background: #033048;
 	float: right;
 	width: 100%;
+	
 }
 
 footer ul {
-	
 	text-align: center;
 }
 
@@ -85,6 +81,7 @@ footer ul li {
 
 footer {
 	text-align: center;
+
 }
 div .footer {
 	text-align: center;
@@ -93,29 +90,20 @@ div .footer {
 section.video{
 	
 	margin:0 auto;
-	
-	background: black;
-	width: 76%;
+	width: 100%;
+	text-align: center;
 
 }
 
-section.left {
-	float: left;
-	padding:0px 0px 0px 0px;
-
-	color: white;
-	font-family: 'Amaranth', sans-serif;
-	font-size: 30px;
-	font-weight: 400;
-
-	}
 
 div .photo {
-	margin: 0;
+	padding-left: 50px;
+	margin-left: 50px;
 }
 
 
 section.bio {
+	
 	font-size: 24px;
 
 
@@ -123,9 +111,15 @@ font-family: 'Righteous';
 
 }
 
+.demoreel {
+	font-size: 24px;
+	text-align: center;
+
+}
+
 span {
 	font-size: 35px;
-	color: gray;
+	color: black;
 }
 
 nav {

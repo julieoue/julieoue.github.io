@@ -1,0 +1,30 @@
+.backgroundphoto {
+
+	background-image: url("../Images/journalistickprintfrontfull.jpg");
+	width: 100%;
+	background-size: 100%;
+	padding: 100px 0px 400px 0px;
+	float: left;
+	
+
+}
+
+.btnbtn-primary {
+	width: 100%;
+	background: black;
+}
+
+.backgroundphotoj {
+	background-image: url("../Images/juliecardbanner.png");
+	width: 100%;
+	background-size: 100%;
+	padding: 100px 0px 500px 0px;
+	float: right;
+
+}
+
+.entersite {
+	display: block;
+	width: 100%;
+	clear: both;
+}

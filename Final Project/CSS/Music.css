@@ -31,5 +31,30 @@ nav {
 }
 
 body {
-	color: black;
+	background-image: url("../Images/shadyblackbackground.jpg");
+	width: 100%;
+	background-size: 100%;
+}
+
+.bio {
+	color:white;
+	font: 30px;
+}
+
+.banner {
+	background-image: url("../Images/UnkFullPhoto.jpg");
+	width: 100%;
+	background-size: 100%;
+	padding: 100px 0px 500px 0px;
+	float: right;
+}
+
+.post {
+	color:white;
+	font: 30px;
+}
+
+h1 {
+	float: right;
+	font:40;
 }
