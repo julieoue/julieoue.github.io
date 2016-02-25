@@ -48,8 +48,9 @@ header {
   flex-direction: row;
 }
 
-p {
-	
+p {font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	font-weight: 500; 
 	color: white;
 }
 

@@ -39,8 +39,10 @@ section {
 }
 
 h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 500; 
   color: white;
-  font: 30px;
   text-align: center;
 
 }

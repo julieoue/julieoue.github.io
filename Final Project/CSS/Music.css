@@ -34,27 +34,88 @@ body {
 	background-image: url("../Images/shadyblackbackground.jpg");
 	width: 100%;
 	background-size: 100%;
+	float: left;
 }
 
 .bio {
+	font-family: 'Raleway', sans-serif;
 	color:white;
-	font: 30px;
+	font: 40px;
+	font-weight: 500;
+	float: left;
+	padding-bottom: 20px;
 }
 
 .banner {
 	background-image: url("../Images/UnkFullPhoto.jpg");
 	width: 100%;
+	height:400px;
 	background-size: 100%;
 	padding: 100px 0px 500px 0px;
-	float: right;
+	float: left;
+}
+
+.soundcloud {
+	float: left;
+}
+
+.postphoto img{
+	height: 300px;
+	float: left;
+	
 }
 
 .post {
 	color:white;
+	height:300px;
 	font: 30px;
+	
+}
+
+img {
+	float: left;
+	width:33%;
+}
+
+.text {
+	font-family: 'Raleway', sans-serif;
+	float: left;
+	width: 33%;
+	font-size: 20px;
+	font-weight: 500 
+
+	
 }
 
 h1 {
-	float: right;
-	font:40;
+	text-align: center;
+	font:70;
+	font-weight: 700;
 }
+
+.soundcloudsongs {
+	float:left;
+	width: 100%;
+}
+
+footer {
+	color:white;
+	background: #033048;
+	float: left;
+	width: 100%;
+	
+}
+
+footer ul {
+	text-align: center;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 40px 40px 40px 80px;
+	font-size: 24px;
+ 
+}
+
+footer {
+	text-align: center;
