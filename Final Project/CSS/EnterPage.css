@@ -1,6 +1,7 @@
 .backgroundphoto {
 
 	background-image: url("../Images/journalistickprintfrontfull.jpg");
+	height: 100%;
 	width: 100%;
 	background-size: 100%;
 	padding: 100px 0px 400px 0px;
@@ -16,6 +17,7 @@
 
 .backgroundphotoj {
 	background-image: url("../Images/juliecardbanner.png");
+	height: 500px;
 	width: 100%;
 	background-size: 100%;
 	padding: 100px 0px 500px 0px;
@@ -27,4 +29,60 @@
 	display: block;
 	width: 100%;
 	clear: both;
+}
+
+
+@media only screen and (max-width:1015px) {
+	.backgroundphoto { width: 100%;
+		height: 100%;
+		background-repeat: no-repeat;
+		float: left;
+		padding-bottom: 0px;
+		}
+
+	.btnbtn-primary {
+		float: left;
+		width: 100%;
+
+	}
+
+
+		.backgroundphotoj {
+			float: right;
+			width: 100%;
+			height: 100%;
+		background-repeat: no-repeat;
+
+		}
+}
+
+
+@media only screen and (max-width:320px) {
+	.backgroundphoto { width: 100%;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		float: left;
+		padding-bottom: 0px;
+		padding-top: 33.3%;
+		}
+
+	.btnbtn-primary {
+		float: left;
+		width: 100%;
+		padding-top: 33.3%;
+
+	}
+
+
+		.backgroundphotoj {
+			padding-top: 33.3%;
+			width: 100%;
+			background-size: 100%;
+		background-repeat: no-repeat;
+
+		}
+
+
+
+	
 }
