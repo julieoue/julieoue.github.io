@@ -145,5 +145,17 @@ nav {
 	span { 
 		font-size: 2em;
 }
+
+footer ul li {
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+	font-size: 20px;
+ 
+}
+.footer {
+	font-size: 16px;
+}
+
+}
 	
 
