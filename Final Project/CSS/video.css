@@ -38,6 +38,15 @@ header {
 	
 }
 
+h1 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+	font-size: 24px;
+	text-align: center;
+	color: white;
+
+}
+
 .videomain {
 	text-align: center;
 }
@@ -79,3 +88,33 @@ footer {
 }
 div .footer {
 	text-align: center;
+
+}
+
+@media only screen and (max-width:568px) {
+	body { width: 100%;
+		background-size: 4000px;
+		background-repeat: no-repeat;
+		padding-bottom: 0px;
+		}
+	
+	section.bio { 
+		font-size: 1em;
+
+	}	
+
+	span { 
+		font-size: 2em;
+}
+
+footer ul li {
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+	font-size: 20px;
+ 
+}
+.footer {
+	font-size: 16px;
+}
+
+}
