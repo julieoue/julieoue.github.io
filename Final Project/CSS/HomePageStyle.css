@@ -136,6 +136,14 @@ nav {
 		background-repeat: no-repeat;
 		padding-bottom: 0px;
 		}
+	
+	section.bio { 
+		font-size: 1em;
+
+	}	
+
+	span { 
+		font-size: 2em;
 }
 	
 
