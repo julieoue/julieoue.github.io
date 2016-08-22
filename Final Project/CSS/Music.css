@@ -72,6 +72,12 @@ body {
 	
 }
 
+.post2 {
+	color:white;
+	height:300px;
+	font: 30px;
+}
+
 img {
 	float: left;
 	width:33%;
@@ -87,9 +93,7 @@ img {
 	
 }
 
-.fbpage{
-	float: right;
-}
+
 
 h1 {
 	text-align: center;
