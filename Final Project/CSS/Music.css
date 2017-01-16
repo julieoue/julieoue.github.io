@@ -55,6 +55,12 @@ body {
 	background-repeat: no-repeat;
 }
 
+.soundcloudlinks {
+	padding: 100px 0px 500px 0px;
+
+}
+
+
 .soundcloud {
 	float: left;
 }
