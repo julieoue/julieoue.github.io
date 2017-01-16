@@ -73,9 +73,12 @@ body {
 }
 
 .post2 {
+	font-family: 'Raleway', sans-serif;
 	color:white;
-	height:300px;
-	font: 30px;
+	font: 300px;
+	font-weight: 500;
+	float: left;
+	padding-bottom: 20px;
 }
 
 img {
