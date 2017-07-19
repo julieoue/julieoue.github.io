@@ -64,14 +64,7 @@ body {
 	background-repeat: no-repeat;
 }
 
-.dcdownload {
-	background-image: url("../Images/dcdownload.jpg");
-	width: 50%;
-	height:100px;
-	background-size: 100%;
-	padding: 100px 0px 500px 0px;
-	background 
-}
+
 
 .soundcloudlinks {
 	padding: 100px 0px 500px 0px;
@@ -93,6 +86,7 @@ body {
 	color:white;
 	height:300px;
 	font: 28px;
+	float: left;
 	
 }
 
