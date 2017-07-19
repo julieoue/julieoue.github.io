@@ -48,8 +48,8 @@ body {
 
 .banner {
 	background-image: url("../Images/UnkFullPhoto.jpg");
-	width: 100%;
-	height:400px;
+	width: 50%;
+	height:200px;
 	background-size: 100%;
 	padding: 100px 0px 500px 0px;
 	background-repeat: no-repeat;
@@ -57,15 +57,15 @@ body {
 
 .delimag {
 	background-image: url("../Images/delimagazinegrab.jpg");
-	width: 100%;
-	height:400px;
+	width: 50%;
+	height:200px;
 	background-size: 100%;
 	padding: 100px 0px 500px 0px;
 	background-repeat: no-repeat;
 }
 
 .dcdownload {
-	background-image: url("../Dcdownload.jpg");
+	background-image: url("../dcdownload.jpg");
 	width: 100%;
 	height:400px;
 	background-size: 100%;
